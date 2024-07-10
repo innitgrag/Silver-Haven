@@ -1,16 +1,2 @@
-# pro3
-
-SilverHaven
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Silver Haven
+Silver Haven is an app designed to support elderly individuals by providing various services and opportunities. The app includes features such as Volunteering Services, a Donation Portal etc It is built using Flutter and Dart, with Firebase integration for sign-in and sign-out functionality. The app also implement phone OTP authentication and Google authentication for a seamless user experience.
